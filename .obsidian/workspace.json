@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "b8a44699452a332e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0292442197377e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f493f5fa45c712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/EPI/EPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b464fe763ff0ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff71cfbb7cf6a308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede3fada4f64c21b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30487c802c2a0a3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b471752b7d156de5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f23a639204b21dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "371242cb5f7a4d02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c2c2dae9d98009",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "References/EPI/EPI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b8c7c918aa342ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "References/EPI/EPI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd9ce5490f4e9d1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c61466e0ec9259cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "References/EPI/EPI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0f493f5fa45c712",
+  "lastOpenFiles": [
+    "References/EPI/EPI 2024 Cover.jpg",
+    "References/EPI/EPI Report 2022.pdf",
+    "References/EPI/EPI Report 2022.pdf.crdownload",
+    "References/EPI/EPI Report 2024.pdf",
+    "References/EPI/EPI.md",
+    "References/EPI/EPI Report 2008.pdf",
+    "References/EPI/EPI Report 2006.pdf",
+    "References/EPI/EPI 2022 Cover.jpg",
+    "ReadMe.md"
+  ]
+}
