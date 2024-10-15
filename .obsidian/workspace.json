@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/EPI/EPI.md",
+                "file": "References/EPI/His.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/EPI/EPI.md",
+                "file": "References/EPI/His.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/EPI/EPI.md",
+                "file": "References/EPI/His.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References/EPI/EPI.md"
+                "file": "References/EPI/His.md"
               }
             }
           }
@@ -146,8 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f493f5fa45c712",
+  "active": "ede3fada4f64c21b",
   "lastOpenFiles": [
+    "ppt110.tmp",
+    "ppt82.tmp",
+    "pptFFE5.tmp",
+    "pptFF48.tmp",
+    "pptFE9B.tmp",
+    "pptFDEE.tmp",
+    "pptFD51.tmp",
+    "pptFCA4.tmp",
+    "pptFC07.tmp",
+    "pptFB4A.tmp",
+    "pptFA9D.tmp",
+    "VerbenaMage.jpg",
+    "References/Зелёный Патруль.png",
+    "References/EPI/EPI.md",
+    "References/EPI/His.md",
     "References/EPI/EPI 2024 Framework.png",
     "References/EPI/EPI 2024 Cover Words.png",
     "References/EPI/EPI 2022 Cover.png",
@@ -156,20 +171,6 @@
     "References/EPI/EPI 2024 Cover.png",
     "References/EPI/image_2024-10-13_23-51-21.png",
     "References/EPI/EPI 2020 Framework.png",
-    "References/EPI/EPI 2022 Framework.png",
-    "References/EPI/EPI 2024 Cover.jpg",
-    "References/EPI/EPI 2024 Framefork.png",
-    "References/EPI/EPI 2024 Framefork.png.crdownload",
-    "References/EPI/EPI.md",
-    "References/EPI/EPI Report 2018.pdf",
-    "References/EPI/EPI Report 2018.pdf.crdownload",
-    "References/EPI/EPI Report 2014.pdf",
-    "References/EPI/EPI Report 2014.pdf.crdownload",
-    "References/EPI/EPI Report 2016.pdf",
-    "References/EPI/EPI Report 2016.pdf.crdownload",
-    "References/EPI/EPI Report 2012.pdf",
-    "References/EPI/EPI Report 2012.pdf.crdownload",
-    "References/EPI/EPI Report 2010.pdf",
     "ReadMe.md"
   ]
 }
